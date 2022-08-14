@@ -57,12 +57,6 @@ To run this project, you will need to add the following environment variables to
 `EMAIL`
 `PASSWORD`
 
-## Run the app
-Terminal
-```
-# vanilla terminal
-streamlit run app.py
-```
 
 ## About Me
 - Sven from Coding Is Fun
