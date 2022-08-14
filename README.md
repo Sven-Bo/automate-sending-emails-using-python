@@ -26,27 +26,27 @@ Install the Deta CLI, open PowerShell and enter:
 
 
 ## Deployment
-👉 Official Documentation: https://docs.deta.sh/docs/micros/getting_started
+👉 Official Documentation: https://docs.deta.sh/docs/micros/getting_started <br/>
 
-[FOR WINDOWS]
+[FOR WINDOWS] <br/>
 To deploy this project you:
-1) need to login
+1) login via the deta CLI
 ```bash
   deta login
 ```
-2) create a new micro (only once!):
+2) create a new micro (only once!)
 ```bash
   deta new --python first_micro
 ```
-3) upload your environment variables:
+3) upload your environment variables
 ```bash
   deta update -e <env_file_name>
 ```
-4) deploy your app:
+4) deploy your app
 ```bash
   deta deploy
 ```
-5) set the cron job: <br/>
+5) set the cron job <br/>
 Example: Run every minute
 ```bash
   deta cron set "1 minute"
