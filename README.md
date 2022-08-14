@@ -46,14 +46,14 @@ To deploy this project you:
 ```bash
   deta deploy
 ```
-5) set the cron job:
+5) set the cron job: <br/>
 Example: Run every minute
 ```bash
   deta cron set "1 minute"
 ```
 
 ## Environment Variables
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file <br/>
 `EMAIL`
 `PASSWORD`
 
