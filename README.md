@@ -24,6 +24,10 @@ Install the Deta CLI, open PowerShell and enter:
   iwr https://get.deta.dev/cli.ps1 -useb | iex
 ```
 
+## Make a Google Sheets Copy
+Here you find the Google Sheet I have used in the video: ⤵
+👉 https://docs.google.com/spreadsheets/d/1Ozq16QL3I475C5ho-T3sGC8NpU6K3JD7jGN5kHti2rY/copy
+!Google Sheets](/google_sheets_invoice_data.png?raw=true "Google Sheets")
 
 ## Deployment
 👉 Official Documentation: https://docs.deta.sh/docs/micros/getting_started <br/>
