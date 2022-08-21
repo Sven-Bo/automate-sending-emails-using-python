@@ -8,8 +8,7 @@ Are you still manually sending emails to your customers and clients? In this vid
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/OLrC4J2-pvk/0.jpg)](https://youtu.be/OLrC4J2-pvk)
 
 
 ## Requirements
